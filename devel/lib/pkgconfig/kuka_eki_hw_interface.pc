@@ -1,0 +1,8 @@
+prefix=/home/jhonn/Documents/robo/kuka_ws/devel
+
+Name: kuka_eki_hw_interface
+Description: Description of kuka_eki_hw_interface
+Version: 0.0.1
+Cflags: -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libtinyxml.so
+Requires: controller_manager hardware_interface joint_limits_interface roscpp
