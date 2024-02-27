@@ -3,7 +3,7 @@ This repository contains Python code to control a robot using ROS (Robot Operati
 
 ## Code Description
 
-The `tutorial.py` file contains the main code for controlling the robot. Here's a brief description of some key parts of the code:
+The `test3.py` file contains the main code for controlling the robot. Here's a brief description of some key parts of the code:
 
 - **Initialization**: ROS node is initialized and an instance of the `Tutorial1` class is created, which contains the main logic for controlling the robot.
 
